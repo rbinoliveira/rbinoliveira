@@ -63,7 +63,9 @@ Olá! Sou **Rubens Junior**, um desenvolvedor Full Stack apaixonado por criar so
 
 ### 🛠️ Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Taskmaster](https://img.shields.io/badge/Taskmaster-FF6B6B?style=for-the-badge&logo=trello&logoColor=white)
 
 ---
 
