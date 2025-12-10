@@ -70,8 +70,12 @@ Olá! Sou **Rubens Junior**, um desenvolvedor Full Stack apaixonado por criar so
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devrubinho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrubinho&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devrubinho&theme=tokyonight" alt="GitHub Stats"/>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devrubinho&theme=tokyonight" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devrubinho&theme=tokyonight" alt="Top Languages"/>
 </div>
 
 <div align="center">
