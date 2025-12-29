@@ -87,7 +87,7 @@ Olá! Sou **Rubens Junior**, um desenvolvedor Full Stack apaixonado por criar so
 ## 🤝 Conecte-se Comigo
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/devrubensdeoliveira" target="_blank">
+  <a href="https://www.linkedin.com/in/rbnoliveira" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
