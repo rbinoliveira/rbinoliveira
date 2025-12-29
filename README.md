@@ -72,14 +72,14 @@ Olá! Sou **Rubens Junior**, um desenvolvedor Full Stack apaixonado por criar so
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devrubinho&theme=shades_of_purple" alt="GitHub Stats"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rbnoliveira&theme=shades_of_purple" alt="GitHub Stats"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devrubinho&theme=shades_of_purple" alt="Top Languages"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devrubinho&theme=shades_of_purple" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rbnoliveira&theme=shades_of_purple" alt="Top Languages"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rbnoliveira&theme=shades_of_purple" alt="GitHub Stats"/>
 </div>
 
 ---
