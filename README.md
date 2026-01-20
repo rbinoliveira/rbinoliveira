@@ -45,7 +45,6 @@ Olá! Sou **Rubens Junior**, um desenvolvedor Full Stack apaixonado por criar so
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Strapi](https://img.shields.io/badge/Strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
 
 ### 📱 Mobile
@@ -65,7 +64,6 @@ Olá! Sou **Rubens Junior**, um desenvolvedor Full Stack apaixonado por criar so
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Taskmaster](https://img.shields.io/badge/Taskmaster-FF6B6B?style=for-the-badge&logo=trello&logoColor=white)
 
 ---
 
